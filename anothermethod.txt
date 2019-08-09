@@ -1,0 +1,15 @@
+use the curl command
+
+
+In unix systems
+
+curl -X POST https://www.hackthebox.eu/api/invite/generate
+
+
+In windows Install curl and 
+
+
+curl.exe -X POST https://www.hackthebox.eu/api/invite/generate
+
+
+It will generate a code in Base64 . Decode it and get started !!
