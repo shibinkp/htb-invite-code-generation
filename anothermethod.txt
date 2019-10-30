@@ -13,3 +13,5 @@ curl.exe -X POST https://www.hackthebox.eu/api/invite/generate
 
 
 It will generate a code in Base64 . Decode it and get started !!
+
+base64 is an encryption
